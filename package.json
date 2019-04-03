@@ -63,10 +63,10 @@
     "styled-media-query": "2.1.1"
   },
   "devDependencies": {
-    "@babel/core": "7.4.0",
+    "@babel/core": "7.4.3",
     "@babel/plugin-proposal-class-properties": "7.4.0",
     "@babel/plugin-syntax-dynamic-import": "7.2.0",
-    "@babel/preset-env": "7.4.2",
+    "@babel/preset-env": "7.4.3",
     "@babel/preset-react": "7.0.0",
     "@storybook/addon-backgrounds": "5.0.6",
     "@storybook/addon-options": "5.0.6",
@@ -83,7 +83,7 @@
     "babel-plugin-styled-components": "1.10.0",
     "babel-plugin-transform-imports": "1.5.1",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24",
-    "browserslist": "4.5.2",
+    "browserslist": "4.5.4",
     "browserslist-ga": "0.0.10",
     "clean-webpack-plugin": "2.0.1",
     "copy-webpack-plugin": "5.0.2",
